@@ -1,0 +1,27 @@
+[
+  {
+    name: "Clark Kent",
+    city: "Metropolis",
+    superhumanScore: 99
+  },
+  {
+    name: "Bruce Wayne",
+    city: "Gotham",
+    superhumanScore: 89
+  },
+  {
+    name: "Peter Parker",
+    city: "New York",
+    superhumanScore: 92
+  },
+  {
+    name: "Tony Stark",
+    city: "New York",
+    superhumanScore: 96
+  },
+  {
+    name: "Thor OdinSon",
+    city: "Asgard",
+    superhumanScore: 95
+  }
+
