@@ -23,7 +23,27 @@
     {
       "name": "Thor OdinSon",
       "city": "Asgard",
-      "superhumanScore": 95
+      "superhumanScore": 154
+    },
+    {
+      "name": "Any-Man",
+      "city": "Boston",
+      "superhumanScore": 89
+    },
+    {
+      "name": "Aquaman",
+      "city": "Atlantis",
+      "superhumanScore": 111
+    },
+    {
+      "name": "Daredevil",
+      "city": "New York",
+      "superhumanScore": 100
+    },
+    {
+      "name": "Moon Knight",
+      "city": "New York",
+      "superhumanScore": 90
     }
   ]
 }
